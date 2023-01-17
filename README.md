@@ -1,18 +1,16 @@
 # Topic Modelling with Google News
 
-
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Little project
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Create a virtual environment and execute the following line of code:
 
 ```
-Give examples
+pip install -r requirements.txt
 ```
+
+I recommend the usage of Python 3.10.6
 ## Authors
 
 * **Alfonso Rodríguez Simón** - [alfonrodrisimon](https://github.com/alfonrodrisimon)
@@ -21,6 +19,3 @@ Give examples
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
