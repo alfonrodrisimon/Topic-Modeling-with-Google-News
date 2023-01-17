@@ -1,6 +1,6 @@
 # Topic Modeling with Google News
 
-Web scraping news article on Google news to perform Topic Modeling
+Web scraping news on Google to perform Topic Modeling
 
 ### Prerequisites
 
