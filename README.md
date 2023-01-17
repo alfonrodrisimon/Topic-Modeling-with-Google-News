@@ -1,6 +1,6 @@
-# Topic Modelling with Google News
+# Topic Modeling with Google News
 
-Little project
+Web scraping news article 
 
 ### Prerequisites
 
@@ -18,4 +18,4 @@ I recommend the usage of Python 3.10.6
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
