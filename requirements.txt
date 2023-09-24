@@ -1,10 +1,11 @@
 asttokens==2.2.1
 backcall==0.2.0
-beautifulsoup4==4.11.1
+beautifulsoup4==4.9.3
 blis==0.7.9
+bs4==0.0.1
 catalogue==2.0.8
 certifi==2022.12.7
-charset-normalizer==3.0.1
+charset-normalizer==2.0.12
 click==8.1.3
 comm==0.1.2
 confection==0.0.4
@@ -15,6 +16,7 @@ cymem==2.0.7
 dateparser==1.1.6
 debugpy==1.6.5
 decorator==5.1.1
+dnspython==1.16.0
 en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.4.1/en_core_web_md-3.4.1-py3-none-any.whl
 entrypoints==0.4
 executing==1.2.0
@@ -27,6 +29,7 @@ funcy==1.17
 future==0.18.3
 FuzzyTM==2.0.5
 gensim==4.3.0
+gnews==0.3.1
 GoogleNews==1.6.6
 idna==3.4
 ipykernel==6.20.1
@@ -67,14 +70,16 @@ pydantic==1.10.4
 pyFUME==0.2.25
 Pygments==2.14.0
 pyLDAvis==3.3.1
+pymongo==3.12.3
 pyparsing==3.0.9
 python-dateutil==2.8.2
+python-dotenv==0.19.2
 pytz==2022.7.1
 pytz-deprecation-shim==0.1.0.post0
 PyYAML==6.0
 pyzmq==25.0.0
 regex==2022.10.31
-requests==2.28.2
+requests==2.26.0
 requests-file==1.5.1
 scikit-learn==1.2.0
 scipy==1.10.0
