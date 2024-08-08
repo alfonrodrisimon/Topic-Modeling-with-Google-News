@@ -10,7 +10,7 @@ Create a virtual environment and execute the following line of code:
 pip install -r requirements.txt
 ```
 
-I recommend the usage of Python 3.11.5
+We recommend the usage of Python 3.11.5
 ## Authors
 
 * **Alfonso Rodríguez Simón** - [alfonrodrisimon](https://github.com/alfonrodrisimon)
