@@ -12,10 +12,6 @@ pip install -r requirements.txt
 
 We recommend the usage of Python 3.11.5
 
-pip install Markdown
-import markdown
-html = markdown.markdown(your_text_string)
-
 ## Authors
 
 * **Alfonso Rodríguez Simón** - [alfonrodrisimon](https://github.com/alfonrodrisimon)
