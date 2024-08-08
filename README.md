@@ -1,6 +1,6 @@
 # Topic Modeling with Google News
 
-This project is an example of web scraping news on :notes: ![Spotify Badge](https://img.shields.io/badge/-brightgreen)
+This project is an example of web scraping news on :notes: ![Spotify Badge](https://img.shields.io/badge/Spotify-brightgreen)
  to perform Topic Modelling of short texts with BERTopic that leverages transformers and c-TF-IDF.
 
 ### Prerequisites
