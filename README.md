@@ -1,6 +1,6 @@
 # Topic Modeling with Google News
 
-Web scraping news on Google to perform Topic Modeling
+This project is an example of web scraping news on :notes: Spotify to perform Topic Modelling with BERTopic that leverages transformers and c-TF-IDF.
 
 ### Prerequisites
 
