@@ -11,6 +11,7 @@ pip install -r requirements.txt
 ```
 
 We recommend the usage of Python 3.11.5
+![Python version](https://img.shields.io/badge/Python-3.11.5-blue)
 
 ## Authors
 
